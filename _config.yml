@@ -1,0 +1,14 @@
+layout_spectrum: 0.7237847887445241
+typography_spectrum: 0.6717315325513482
+color:
+  brandStrength: 0.35421069036237895
+  lightness: 0.45175116043537855
+  saturation: 0.9056440207641572
+  rhythmicContrast: 0.8071413959842175
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: LeOzone
